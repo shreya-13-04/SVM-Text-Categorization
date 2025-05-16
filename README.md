@@ -31,3 +31,10 @@ You can easily extend or modify the categories to suit other domains like spam d
 
 ```text
 "The new AI model has outperformed previous benchmarks in natural language understanding."
+```
+
+##📤 Sample Output
+```text
+Predicted Category: sci.med
+Confidence Scores: [0.28, 0.72]
+```
